@@ -18,3 +18,4 @@ Desarrollar un juego interactivo en lenguaje Python que permita aplicar de forma
 
 ## Fecha
 23 de agosto de 2026
+https://github.com/AntoniRC/Evaluaci-n-en-Contacto-con-el-Docente/blob/main/Diagrama%20de%20PPT.png
