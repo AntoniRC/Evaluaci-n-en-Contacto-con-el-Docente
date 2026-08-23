@@ -1,4 +1,4 @@
-# JUEGO DE PIEDRA, PAPEL O TIJERA
+# JUEGO DE PIEDRA PAPEL O TIJERA
 
 ## Integrantes
 Antoni Ronquillo
