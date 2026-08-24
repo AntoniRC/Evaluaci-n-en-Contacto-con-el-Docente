@@ -19,4 +19,4 @@ Desarrollar un juego interactivo en lenguaje Python que permita aplicar de forma
 ## Fecha
 23 de agosto de 2026
 ##
-Link del video: 
+Link del video: https://drive.google.com/file/d/14sOsZ03lQ9Iceqdw9Daw8HPApaoiprly/view?usp=sharing
